@@ -1,4 +1,6 @@
 # Data Analyst Journey💻
+🔗 [Check out my Kaggle profile](https://www.kaggle.com/cecilliahmuli)
+
 So this is my journey as a self taught data analyst.I,m a complete beginner and this is how I want to challenge myself.This will be a 6 months or less journey to master basic data analyst skill,to top off my current programming course I,m taking at IYF.Feel free to fork or get inspired!
 
 ---
